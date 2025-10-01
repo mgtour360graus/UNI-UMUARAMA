@@ -1,0 +1,53 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_81861C64_91F4_2CF4_41D6_0DD48ACB8E07.label = Acesso
+panorama_818654F8_91F4_3DDC_41C2_21EE88C3BEA2.label = Auditório
+panorama_8186D747_91F4_5C34_41C5_360D6D7C1708.label = Biblioteca
+panorama_81861065_91F4_74F4_41B2_F75C1686539C.label = Biblioteca
+panorama_8186C852_91F4_742C_41C5_586D11773C9B.label = Corredores Superior
+panorama_8186F004_91F4_5435_41D9_C0ADEC7EDCB7.label = Corredores Superior
+panorama_81867E58_91F4_2CDC_4175_E4E43762C89C.label = Espaço livre de estudos
+panorama_81869837_91F4_5453_41C0_E6B810CAECDB.label = Fachada
+panorama_8186C123_91F4_3473_41C4_EA58FD5FA2E9.label = Hall
+panorama_8186617B_91F4_D4DC_41C3_818A3060ED14.label = Laboratório Agronomia
+panorama_818179CC_91F4_3434_41D4_B7950337F0F0.label = Laboratório Agronomia
+panorama_81818128_91F4_F47C_41E0_DC7186218F37.label = Laboratório Bio Farma
+panorama_8181A95B_91F4_F4D3_41CA_488A230F16DA.label = Laboratório Bio Farma
+panorama_8181994B_91F4_D43C_41D2_E715F088C3D5.label = Laboratório Bio Farma
+panorama_81811AAB_91F4_7473_41CD_C11ABD576290.label = Laboratório Radiologia
+panorama_8181425B_91F4_54DC_41DA_D64CB418463F.label = Laboratório Radiologia
+panorama_8181B279_91F4_74DF_41CC_1F0C6A495218.label = Laboratório Radiologia
+panorama_81873467_91F4_3CF4_41D9_1F75267DCAA5.label = Laboratório bem estar
+panorama_81861C99_91F4_2C5F_41DD_9E651F86A89C.label = Laboratório bem estar
+panorama_80B3C8B4_91F4_5454_41E0_183C7A461DE8.label = Laboratório bem estar
+panorama_81861523_91F5_DC6C_41E0_03D0E1B238B3.label = Laboratório enfermagem
+panorama_81866490_91F5_DC2C_41D1_F5421C20DA1E.label = Laboratório enfermagem
+panorama_81863CD0_91F5_EC2C_41DF_31486548EC1D.label = Laboratório enfermagem
+panorama_81860CE1_91F5_EDEF_41B7_42F5DFE1847A.label = Laboratório enfermagem
+panorama_818634B1_91F5_FC6C_41C1_D9F00F6F66F3.label = Laboratório enfermagem
+panorama_8181F9A5_91F4_D474_41D3_694E8A298DFD.label = Laboratório fisioterapia
+panorama_8181F22A_91F4_347C_41D4_184B8A1A1E42.label = Laboratório fisioterapia
+panorama_8181E1B5_91F4_D457_41E0_4FD997F2FEFC.label = Laboratório fisioterapia
+panorama_818101FC_91F4_57D5_41D8_E328EE929DAC.label = Laboratório nutrição
+panorama_81814A62_91F4_54ED_41E1_B4944F972C72.label = Laboratório nutrição
+panorama_8181CA1F_91F4_3454_41E0_FD1620D4932A.label = Laboratório nutrição
+panorama_81810A2B_91F4_547C_41D5_C6BEA353ED30.label = Recepção
+panorama_8001566A_9374_3CFD_41D6_6AE5701C387A.label = drone 1
+panorama_836B32F4_9374_55D4_41B8_6F51F86DCE36.label = drone 2
+panorama_836BCFA8_9374_6C7D_41CE_15CABE544E37.label = drone 3
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Unicesumar - Umuarama
